@@ -2,6 +2,7 @@
 A social Network App made solely with tkinter
 
 ## Problem Statement:
+
 Consider a social network application where there are:
 - Users: identified by unique user id (String)
 - Groups: which are sets of users who are members of the group. The group is identified
